@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/go-jugoban-utaawase",
  "yomi": "ごじゅうごばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "秀歌撰（十五番歌合）",
+  "era": "寛弘4〜5年（1007〜1008）頃",
+  "author": "撰者 未詳",
+  "desc": "実方・道信・和泉式部・赤染衛門・花山院・具平親王ら、一条朝前後の歌人三十人の歌を一首ずつ十五番に番えた撰歌合。前十五番歌合と対になる。"
+ },
  "editions": [
   {
    "pid": "1879502",
